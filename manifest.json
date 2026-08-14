@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Block Nova",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Block Nova",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Puzzle game",
+  "id": "block-nova"
+}
